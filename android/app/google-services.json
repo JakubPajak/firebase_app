@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "206254722054",
+    "project_id": "fir-app-c22be",
+    "storage_bucket": "fir-app-c22be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206254722054:android:6f7a6ca444f78249da4787",
+        "android_client_info": {
+          "package_name": "com.jakubpajak.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206254722054-2lctiljcs35ka04g3fbolpnhmbl6lehh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jakubpajak.firebase_app",
+            "certificate_hash": "77900e1c9887209617ff4419013c646b692828ee"
+          }
+        },
+        {
+          "client_id": "206254722054-8ps49e1kj3fdq81uu0id9nlkvf3flh4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1JuSz8ymQujGv4D_Y_Upj6jkMel4i56k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206254722054-8ps49e1kj3fdq81uu0id9nlkvf3flh4p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "206254722054-khpavspqjvlc7i8o59hrur7vip97gs61.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jakubpajak.firebaseApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
